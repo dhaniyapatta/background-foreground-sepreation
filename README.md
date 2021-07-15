@@ -24,5 +24,6 @@ Key 'r' - To reset the setup
 Key 's' - To save the results
   
 
+## Outputs:
     
-!Foreground Extraction(https://github.com/dhaniyapatta/background-foreground-sepreation/blob/main/Grabcut \Implemtnation/Output/Screenshot \2021-07-15 \at \1.45.29 \PM.png?raw=true)
+    https://www.notion.so/dhaniyapatta/Grabcut-Outputs-e49cb506dddd4f2a8620ea27c05cf5b5
