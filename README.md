@@ -24,6 +24,5 @@ Key 'r' - To reset the setup
 Key 's' - To save the results
   
 
-## Outputs:
-    
-    [Images](https://www.notion.so/dhaniyapatta/Grabcut-Outputs-e49cb506dddd4f2a8620ea27c05cf5b5)
+# Outputs
+[Images](https://www.notion.so/dhaniyapatta/Grabcut-Outputs-e49cb506dddd4f2a8620ea27c05cf5b5)
