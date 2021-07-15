@@ -1,11 +1,8 @@
 # background-foreground-sepreation
 
-Interactive Image Segmentation using GrabCut algorithm.
-
-This sample shows interactive image segmentation using grabcut algorithm.
 
 USAGE:
-    python grabcut.py <filename>
+    python grabcut_final.py <filename>
 
 
 Key '0' - To select areas of sure background
