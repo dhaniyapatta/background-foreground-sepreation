@@ -26,4 +26,4 @@ Key 's' - To save the results
 
 ## Outputs:
     
-    https://www.notion.so/dhaniyapatta/Grabcut-Outputs-e49cb506dddd4f2a8620ea27c05cf5b5
+    [Images](https://www.notion.so/dhaniyapatta/Grabcut-Outputs-e49cb506dddd4f2a8620ea27c05cf5b5)
